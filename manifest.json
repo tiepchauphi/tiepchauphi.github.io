@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b27ee9aab19da1916b88168eb10b40ca.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.456acedf2a3c1bcba4b649231d21b89b.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.deeefdcb469efcf34a71274aa0b538db.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.9f116f4b46a6aac5f497eef986e2955d.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.ac2156e448e26827de6b5f6673c9887e.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Le Andrade",
+  "short_name": "Le Andrade",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A empresa foi criada visando o diferencial de looks com qualidade para proporcionar o bem-estar e a satisfação da mulher.\nLooks Femininos do básico ao elegante com qualidade você encontra aqui.",
+  "background_color": "#f5f5f5",
+  "theme_color": "#ff3e89"
+}
